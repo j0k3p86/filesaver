@@ -30,6 +30,7 @@ Supported browsers
 Feature detection is possible:
 
 
+
 ```js
 try {
     var isFileSaverSupported = !!new Blob;
